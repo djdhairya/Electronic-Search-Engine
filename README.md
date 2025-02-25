@@ -16,6 +16,7 @@ The **Electronic Search Engine** is a recommendation system built using Streamli
 
 ### Prerequisites
 
+
 Ensure you have the following installed:
 
 - Python 3.x
@@ -93,3 +94,4 @@ Electronic Search Engine/
 
 This project is open-source under the MIT License.
 
+![Screenshot 2025-02-25 234705](https://github.com/user-attachments/assets/25c962ae-b462-48d2-86e7-becbdd46d83f)
